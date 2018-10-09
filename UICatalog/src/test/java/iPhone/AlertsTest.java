@@ -34,5 +34,4 @@ public class AlertsTest extends Base {
     public void clickOnAlertViewShowOkSimple(){
         alerts.clickAlertViewShowOkSimple();
     }
-
 }
